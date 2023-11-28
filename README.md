@@ -1,1 +1,1 @@
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
+<span style="color:#355E3B; font-family: 'Bebas Neue'; font-size: 10em;">DJ4nto</span>
