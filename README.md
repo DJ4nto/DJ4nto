@@ -1,3 +1,3 @@
-# [check out my portfolio](https://dj4nto.github.io/)
+# [Check out my portfolio](https://dj4nto.github.io/)
 
 :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus: :cactus:
