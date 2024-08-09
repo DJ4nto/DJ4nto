@@ -11,16 +11,20 @@
 <a href="mailto:lecocqantonin@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
+<br>
+
 ### I am a French student interested in mathematics and computer science. I love playing CTFs.
 
 <h4>Have a look at my web portfolio -  <a href="https://dj4nto.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-DJ4nto-006400?"></a></h4>
 
-<h3><img alt="Visual Studio Code" src="https://img.shields.io/badge/languages%20:-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></h3>
+<h3><img alt="Languages and Tools :" src="https://img.shields.io/badge/languages%20and%20tools%20:-007A01.svg?style=for-the-badge"/></h3>
 
-<img style="margin-right:10" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img style="margin-right:10" align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin-right:10" align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin-right:10" align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin-right:10" align="left" alt="HTML5" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img style="margin-right:10" align="left" alt="HTML5" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="margin-right:10" align="left" alt="CSS3" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="margin-right:10" align="left" alt="JavaScript" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin-right:10" align="left" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/>
+<img style="margin-right:10" align="left" alt="csharp" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="35"/>
 
 <br>
 <br>
