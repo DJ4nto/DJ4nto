@@ -41,7 +41,9 @@
 <br>
 <br>
 
+<div>
 <img width="35%" align="right" alt="gif" src="./assets/crowbar_safe.gif"/>
+</div>
 
 <br>
 
