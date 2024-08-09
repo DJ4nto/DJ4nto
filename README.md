@@ -25,8 +25,10 @@
 <img style="margin-right:10" align="left" alt="JavaScript" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin-right:10" align="left" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/>
 <img style="margin-right:10" align="left" alt="csharp" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="35"/>
+<img style="margin-right:10" align="left" alt="blender" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="35"/>
 <img style="margin-right:10" align="left" alt="visualstudiocode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="35"/>
 <img style="margin-right:10" align="left" alt="visualstudio" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="35"/>
+
 
 <br>
 <br>
