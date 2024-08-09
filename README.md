@@ -11,7 +11,7 @@
 <a href="mailto:lecocqantonin@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
-### I am a French student interested in mathematics and computer science. I love playing CTF.
+### I am a French student interested in mathematics and computer science. I love playing CTFs.
 
 <h4>Have a look at my web portfolio -  <a href="https://dj4nto.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-DJ4nto-006400?"></a></h4>
 
