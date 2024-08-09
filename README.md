@@ -25,6 +25,8 @@
 <img style="margin-right:10" align="left" alt="JavaScript" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin-right:10" align="left" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/>
 <img style="margin-right:10" align="left" alt="csharp" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="35"/>
+<img style="margin-right:10" align="left" alt="visualstudiocode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="35"/>
+<img style="margin-right:10" align="left" alt="visualstudio" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="35"/>
 
 <br>
 <br>
@@ -36,8 +38,6 @@
 
 <br>
 <br>
-
-<!--@keyframes break {0% {transform: translate(40px);} 50% {transform: translate(0px);} 100% {transform: translate(40px);}} -->
 
 <img style="transform: scaleX(-1)" width="160" align="right" alt="top languages" src="https://cdn-items.klei.com/dst/192x192/icebox_victorian_7ea616ff646294af.png"/><img width="125" align="right" alt="github stats" src="https://cdn-items.klei.com/dst/192x192/hammer_crowbar_f46eaeeb80751e23.png"/>
 
@@ -55,3 +55,12 @@
 <div align="center">
 <img alt="top languages" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 </div>
+
+<script>
+  const image = document.getElementById('myImage');
+  let angle = 0;
+  setInterval(() => {
+    angle += 10;
+    image.style.transform = `rotate(${angle}deg)`;
+  }, 100);
+</script>
