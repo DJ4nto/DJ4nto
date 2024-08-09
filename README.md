@@ -37,4 +37,20 @@
 <br>
 <br>
 
-# 
+<img width="160" align="right" alt="top languages" src="https://cdn-items.klei.com/dst/192x192/icebox_victorian_7ea616ff646294af.png"/><img width="125" align="right" alt="github stats" src="https://cdn-items.klei.com/dst/192x192/hammer_crowbar_f46eaeeb80751e23.png"/>
+
+<br>
+
+<div align="center">
+<h3 align="left"><img align="left" style="margin-right:10" width="20" alt="Cryptanalysis" src="https://www.root-me.org/IMG/logo/rubon18.svg">Currently breaking encryption algorithms on <a href="https://www.root-me.org/DJ4nto">root-me</a></h3>
+</div>
+
+<br>
+<br>
+<br>
+
+#
+
+<div align="center">
+<img alt="top languages" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+</div>
