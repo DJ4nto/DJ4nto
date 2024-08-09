@@ -41,12 +41,15 @@
 <br>
 <br>
 
-<img width="275" align="right" alt="github stats" src="./gif/crowbar_safe.gif"/>
+<img width="275" align="right" alt="github stats" src="./assets/crowbar_safe.gif"/>
 
 <br>
 
 <div align="center">
-<h3 align="left"><img align="left" style="margin-right:10" width="20" alt="Cryptanalysis" src="https://www.root-me.org/IMG/logo/rubon18.svg">Currently breaking encryption algorithms on <a href="https://www.root-me.org/DJ4nto">root-me</a></h3>
+<h3 align="left"><img align="left" style="margin-right:10" width="20" alt="Cryptanalysis" src="https://www.root-me.org/IMG/logo/rubon18.svg">Currently breaking encryption algorithms on <a href="https://www.root-me.org/DJ4nto">root-me</a>
+<br>
+<br>
+<img align="left" style="margin-right:10" width="20" alt="dubmania" src="./assets/mic-logo.png">Currently working on <a href="https://github.com/DJ4nto/DubMania">DubMania</a></h3>
 </div>
 
 <br>
