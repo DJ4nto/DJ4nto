@@ -38,7 +38,7 @@
 <br>
 
 
-<img style="transform: scaleX(-1)" width="160" align="right" alt="top languages" src="https://cdn-items.klei.com/dst/192x192/icebox_victorian_7ea616ff646294af.png"/><img class="crowbar" width="125" align="right" alt="github stats" src="https://cdn-items.klei.com/dst/192x192/hammer_crowbar_f46eaeeb80751e23.png"/>
+<img style="transform: scaleX(-1)" width="160" align="right" alt="top languages" src="https://cdn-items.klei.com/dst/192x192/icebox_victorian_7ea616ff646294af.png"/><img class="crowbar" width="125" align="right" alt="github stats" src="https://cdn-items.klei.com/dst/192x192/hammer_crowbar_f46eaeeb80751e23.png" style="keyframes break {0% {transform: translate(40px);} 50% {transform: translate(0px);} 100% {transform: translate(40px);}} animation: break 1s infinite; position: relative}"/>
 
 <style>
 @keyframes break {
