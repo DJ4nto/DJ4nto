@@ -37,14 +37,9 @@
 <br>
 <br>
 
-<div>
-<style>
-    @keyframes break {0% {transform: translate(40px);} 50% {transform: translate(0px);} 100% {transform: translate(40px);}}
-</style>
-</div>
 <!--@keyframes break {0% {transform: translate(40px);} 50% {transform: translate(0px);} 100% {transform: translate(40px);}} -->
 
-<img style="transform: scaleX(-1)" width="160" align="right" alt="top languages" src="https://cdn-items.klei.com/dst/192x192/icebox_victorian_7ea616ff646294af.png"/><img width="125" align="right" alt="github stats" src="https://cdn-items.klei.com/dst/192x192/hammer_crowbar_f46eaeeb80751e23.png" style="animation: break 1s infinite; position: relative}"/>
+<img style="transform: scaleX(-1)" width="160" align="right" alt="top languages" src="https://cdn-items.klei.com/dst/192x192/icebox_victorian_7ea616ff646294af.png"/><img width="125" align="right" alt="github stats" src="https://cdn-items.klei.com/dst/192x192/hammer_crowbar_f46eaeeb80751e23.png" style="margin-right:-20"/>
 
 <br>
 
