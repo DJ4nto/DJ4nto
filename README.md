@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<img width="30%" align="right" alt="gif" src="./assets/crowbar_safe.gif"/>
+<img width="35%" align="right" alt="gif" src="./assets/crowbar_safe.gif"/>
 
 <br>
 
