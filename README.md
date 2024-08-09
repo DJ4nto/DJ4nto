@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<img width="275" align="right" alt="github stats" src="./assets/crowbar_safe.gif"/>
+<img width="30%" align="right" alt="gif" src="./assets/crowbar_safe.gif"/>
 
 <br>
 
