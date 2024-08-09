@@ -35,8 +35,7 @@
 
 <h3><img alt="Visual Studio Code" src="https://img.shields.io/badge/github%20stats%20:-121013?style=for-the-badge&logo=github&logoColor=white"/></h3>
 
-<img width="60%" align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=DJ4nto&theme=shadow_green&show_icons=true"/>
-<img width="37%" align="right" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ4nto&layout=compact&theme=shadow_green"/>
+<img width="60%" align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=DJ4nto&theme=shadow_green&show_icons=true"/><img width="37%" align="right" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ4nto&layout=compact&theme=shadow_green"/>
 
 <br>
 <br>
