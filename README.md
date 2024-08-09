@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-<h3><img align="left" style="margin-right:10" width="20" alt="Cryptanalysis" src="https://www.root-me.org/IMG/logo/rubon18.svg">Currently breaking encryption algorithms on <a href="https://www.root-me.org/DJ4nto">root-me</a></h3>
+<h3 align="left"><img align="left" style="margin-right:10" width="20" alt="Cryptanalysis" src="https://www.root-me.org/IMG/logo/rubon18.svg">Currently breaking encryption algorithms on <a href="https://www.root-me.org/DJ4nto">root-me</a></h3>
 </div>
 
 <br>
