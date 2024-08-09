@@ -1,5 +1,5 @@
 <div align="center">
-<h1><font size="100"> Hi, DJ4nto here ! </font><img src="https://cdn-items.klei.com/dst/192x192/wormwood_cactus_7e4fb75ae19500bc.png" width="45"></h1>
+<h1>Hi, DJ4nto here ! <img src="https://cdn-items.klei.com/dst/192x192/wormwood_cactus_7e4fb75ae19500bc.png" width="45"></h1>
 </div>
 
 <div align="center">
