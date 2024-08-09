@@ -17,7 +17,7 @@
 
 <h4>Have a look at my web portfolio -  <a href="https://dj4nto.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-DJ4nto-006400?"></a></h4>
 
-<h3><img alt="Languages and Tools :" src="https://img.shields.io/badge/languages%20and%20tools%20:-007A01.svg?style=for-the-badge"/></h3>
+<h3><img alt="I code with :" src="https://img.shields.io/badge/i%20code%20with%20:-007A01.svg?style=for-the-badge"/></h3>
 
 <img style="margin-right:10" align="left" alt="HTML5" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="margin-right:10" align="left" alt="HTML5" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
