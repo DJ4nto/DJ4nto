@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
-<a href="https://instagram.com/antonin._.lecocq"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://instagram.com/antonin._.lecocq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="mailto:lecocqantonin@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/antonin-lecocq-0082042b5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>&nbsp;  
 </div>
 
 <br>
