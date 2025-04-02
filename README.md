@@ -13,7 +13,7 @@
 
 <br>
 
-### I am a French student interested in mathematics and computer science. I love playing CTFs.
+### I study mathematics and computer science at Paris Dauphine University.
 
 <h4>Have a look at my web portfolio -  <a href="https://dj4nto.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-DJ4nto-006400?"></a></h4>
 
