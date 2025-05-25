@@ -15,7 +15,14 @@
 
 <br>
 
-### I study mathematics and computer science at Paris Dauphine University.
+### 📚 I study mathematics and computer science at Paris Dauphine University.
+
+<br>
+
+### 👨‍💻 I'm working on :
+<a href="www.museolog.com"><img width="160" alt="MuseoLog_" src="./logo.png"></a></h3>
+
+<br>
 
 <h3><img alt="I code with :" src="https://img.shields.io/badge/i%20code%20with%20:-026904.svg?style=for-the-badge"/></h3>
 
@@ -37,9 +44,4 @@
 <br>
 <br>
 
-<div align="center">
-<h3 align="left">Currently working on <a href="www.museolog.com"><img align="left" style="margin-right:10" width="20" alt="MuseoLog_" src="./assets/logo.png"></a></h3>
-</div>
-
-<br>
-<br>
+#
