@@ -20,7 +20,7 @@
 <br>
 
 ### 👨‍💻 I'm working on :
-<a href="www.museolog.com"><img width="160" alt="MuseoLog_" src="./logo.png"></a></h3>
+<a href=""><img width="160" alt="MuseoLog_" src="./logo.png"></a></h3>
 
 <br>
 
