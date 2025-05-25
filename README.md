@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-<a href="https://instagram.com/antonin._.lecocq/"><img src="!https://github.com/user-attachments/assets/92823f06-d792-4c6d-a87c-a63601fecd53" alt="Instagram" /></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61555982593984"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white alt="Facebook" /></a>&nbsp;
-<a href="mailto:lecocqantonin@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/antonin-lecocq-0082042b5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>&nbsp;  
+<a href="https://instagram.com/antonin._.lecocq/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61555982593984"><img src="https://simpleskill.icons.workers.dev/svg?i=facebook" /></a>&nbsp;
+<a href="mailto:lecocqantonin@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/antonin-lecocq-0082042b5/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/></a>&nbsp;  
 </div>
 
 <br>
