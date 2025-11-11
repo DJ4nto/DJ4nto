@@ -26,7 +26,7 @@
 
 <h3><img alt="I code with :" src="https://img.shields.io/badge/i%20code%20with%20:-026904.svg?style=for-the-badge"/></h3>
 
-<img src="https://simpleskill.icons.workers.dev/svg?i=python,html5,css3,javascript,php"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,php,c,cs"/>
 <img src="https://skillicons.dev/icons?i=symfony,mysql,mongodb,redis,rabbitmq,docker,git,wordpress"/>
 <img src="https://skillicons.dev/icons?i=phpstorm,postman,vscode,visualstudio,unity,blender"/>
 
