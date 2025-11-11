@@ -19,11 +19,6 @@
 
 <br>
 
-### 👨‍💻 I'm working on :
-<a href=""><img width="160" alt="MuseoLog_" src="./logo.png"></a></h3>
-
-<br>
-
 <h3><img alt="I code with :" src="https://img.shields.io/badge/i%20code%20with%20:-026904.svg?style=for-the-badge"/></h3>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,php,c,cs"/>
