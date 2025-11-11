@@ -37,8 +37,3 @@
 
 <img width="60%" align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=DJ4nto&theme=shadow_green&show_icons=true"/>
 <img width="37%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ4nto&layout=compact&theme=shadow_green"/>
-
-<br>
-<br>
-
-#
