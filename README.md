@@ -27,11 +27,8 @@
 <h3><img alt="I code with :" src="https://img.shields.io/badge/i%20code%20with%20:-026904.svg?style=for-the-badge"/></h3>
 
 <img src="https://simpleskill.icons.workers.dev/svg?i=python,html5,css3,javascript,php"/>
-<img style="margin-right:10" align="left" alt="csharp" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="35"/>
-<img style="margin-right:10" align="left" alt="blender" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="35"/>
-<img style="margin-right:10" align="left" alt="visualstudiocode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="35"/>
-<img style="margin-right:10" align="left" alt="visualstudio" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="35"/>
-
+<img src="https://skillicons.dev/icons?i=symfony,mysql,mongodb,redis,rabbitmq,docker,git,wordpress"/>
+<img src="https://skillicons.dev/icons?i=phpstorm,postman,vscode,visualstudio,unity,blender"/>
 
 <br>
 <br>
