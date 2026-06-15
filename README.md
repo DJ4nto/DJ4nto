@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-<a href="https://instagram.com/antonin._.lecocq/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61555982593984"><img src="https://simpleskill.icons.workers.dev/svg?i=facebook" /></a>&nbsp;
 <a href="mailto:antonin.lecocq@dauphine.eu"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/antonin-lecocq-0082042b5/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/></a>&nbsp;  
