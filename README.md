@@ -16,6 +16,8 @@
 
 ### 📚 I study mathematics and computer science at Paris Dauphine University.
 
+### 🎮 I'm working on [DubMania](https://dj4nto.github.io/DubMania/), a dubbing web game !
+
 <br>
 
 <h3><img alt="I code with :" src="https://img.shields.io/badge/i%20code%20with%20:-026904.svg?style=for-the-badge"/></h3>
